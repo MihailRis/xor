@@ -6,13 +6,6 @@
 g++ -std=c++17 -lstdc++fs -Wall -Wextra -O3 xorfile.cpp -o xor
 ```
 
-## Installation
-### Linux:
-- compile
-- put executable to `/usr/bin`
-### Debian
-- 
-
 ## Usage
 
 xor files:
